@@ -1,0 +1,1063 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>ADITYA INSTITUTE OF TECHNOLOGY & MANAGEMENT</title>
+<meta name="google-site-verification" content="CcLcIt5aassyHHl6vwO64RIe0s-g3O_1LsH0WKHkWUo" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<link rel="shortcut icon" href="images/icon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+<link href="themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="popupads/sliding_pane.js"></script>  
+<link rel="stylesheet" type="text/css" href="popupads/style.css">
+<script src="themes/1/js-image-slider.js" type="text/javascript"></script>
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-slidedeck.pack.lite.js"></script>
+<script src="s/jquery.js" type="text/javascript"></script>
+<script src="s/jquery.innerfade.js" type="text/javascript"></script>
+<!-- 3 Column Stylesheet Added To The Page And Not To The Layout.css -->
+<link rel="stylesheet" href="styles/3_column.css" type="text/css" />
+
+<script>
+function switchfunction(){
+      
+      //document.getElementById('sp').className=e;
+      $("#narea").load("notifications.php");
+	  
+  }
+
+</script>
+
+<style type="text/css">
+ul.nostart li
+{
+border-bottom:1px solid #ccc;
+}
+
+.jstfy
+{
+text-align:justify;text-justify:inter-word;
+}
+li
+{
+font-weight:normal;
+}
+</style>
+
+
+<meta name="google-site-verification" content="zKzxTpHJXc7EMfloJ-pphLDJHLueRfnHBlPBbCJa9Pk" />
+
+</head>
+
+<body id="top">
+<div style="background-color:#03274B/*276597 09C09E 4BE2C6*/;color:Black;width:100%;margin:0 auto auto;">
+<table style="border:0px;/*box-shadow: 3px 5px 10px 5px Grey;*/width:1027px;border-color:Navy;margin-bottom:0px;color:#FF0000;margin:0 auto auto;">
+<tr>
+<td colspan="3" style="text-align:right;border:0px;/*background-color:LightGrey;*/">
+
+<a href="http://adityatekkali.edu.in/overseas.php" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Overseas Addresses</a>
+<font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+
+<a href="http://adityatekkali.edu.in/circulars/Registration_form_New.pdf" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Student Registration Form</a>
+<font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+
+
+<a href="http://adityatekkali.edu.in/circulars/Bus Registration_form_New.pdf" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Bus Registration Form</a>
+<font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+
+
+<!--<a href="http://adityatekkali.edu.in/Aitam_App_Form/registration.php" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Admission Form</a>
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>-->
+
+
+<a href="downloads/AITAM_E-Broucher.pdf" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">E-Brochure</a>
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+
+
+<!--<a href="http://103.49.121.116/" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Parent Login</a>
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>-->
+
+
+<!--<a href="incubation.php" target="_self" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Incubation Centre</a>
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>-->
+
+
+
+ <a href="http://103.49.121.117:8080" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">E-Learning</a>
+
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+		 <a href="http://adityatekkali.edu.in/amp" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Modular Program</b></a> 
+	 
+	 <font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+	 
+	 <a href="http://adityatekkali.edu.in/examcell/" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Exam Portal</a>
+
+ <font color="red" style="margin-left:5px;margin-right:5px;">|</font>
+	 
+	 <a href="http://adityatekkali.edu.in/webmail" target="_blank" style="font-size:12px;color:White;border-radius:10px;font-weight:bold;">Web Mails</a>
+</td>
+</tr>
+</table>
+</div>
+
+
+<div id="fullcontainer" style="width:1027px;background-color:#F8F9F3;border:0px solid grey;margin:0 auto auto">
+
+
+<div class="wrapper row1" style="width:1027px;margin:0 auto auto;background-color:#F0F8FF">
+<!--#191970-->
+
+
+
+  <div id="header" class="clear" style="width:1027px">
+    <table style="border:0px;/*box-shadow: 3px 5px 10px 5px Grey;*/width:1027px;border-color:Navy;margin-bottom:0px;color:#FF0000;margin:0 auto auto;background-color:#F0F8FF">
+ 
+	
+         <tr>
+
+
+
+<td style="border:0;width:560px">
+    <img src="images/aitam_logo_s.gif" width=500 height=80>
+<br/>
+<span style="font-size:12px;font-weight:bold;color:DarkMagenta">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AN <b>AUTONOMOUS</b> INSTITUTION & AFFILIATED TO <b>JNTU KAKINADA</b></span>
+<br/>
+</td>
+
+<td colspan="2" style="border:0;text-align:center">
+
+<table style="border:0"><tr>
+<td style="border:0" valign="center">
+<br/><br/>
+<b><font color="Maroon" style="font-size:14px">NBA&nbsp; & &nbsp;NAAC</font></b><br/>
+<span style="background-color:#03274B;color:White;font-weight:bold;font-size:11px">&nbsp;A C C R E D I T E D&nbsp;</span>
+</td></tr></table>
+
+
+
+</td>	 
+	 <td width="170px" style="line-height:1.9em;color:DarkMagenta/*Cyan*/;border:0px dashed White;font-weight:bold;text-align:right;font-size:12px;">
+
+<a href="https://play.google.com/store/apps/details?id=org.aitam" target="_blank"><img src="android.png" width="22px" height="22px"></a>
+
+	     
+<a href="http://in.linkedin.com/pub/aitam-tekkali/a4/aa8/62b/" target="_blank" title="LinkedIn"><img src="images/icons/LinkedIn.png" width="22px" height="22px"></a>
+<a href="https://www.facebook.com/aitamtekkaliedu" target="_blank" title="Facebook"><img src="images/icons/Facebook.png" width="22px" height="22px"></a> 
+<a href="https://twitter.com/AitamTekkali" target="_blank" title="Twitter"><img src="images/icons/Twitter.png" width="22px" height="22px"></a> 
+<a href="https://plus.google.com/u/0/109627802264609925294/posts" target="_blank" title="GooglePlus"><img src="images/icons/GooglePlus.png" width="22px" height="22px"></a>
+<a href="https://www.youtube.com/channel/UCXzmNkjww-5qexkpXNX3CIA/videos" target="_blank" title="Yoututbe"><img src="images/icons/YouTube.png" width="22px" height="22px"></a> 
+<!--<a href="" target="_blank"><img src="images/icons/Skype.png" width="22px" height="22px"></a> -->  
+<br/><br/>
+
+     <span STYLE="color:Red;font-size:13px;font-weight:bold">&nbsp;COLLEGE CODE : ADIT &nbsp;</span>
+     <br/>
+     <img src="images/icons/Dialer-icon.png" width="19px" height="19px">+91 - 9246657908&nbsp;&nbsp;
+
+           
+	 </td>
+	 </tr>
+	 </table>
+</div>
+</div>
+
+<!-- ####################################################################################################### -->
+<div class="wrapper row2" style="position:relative;margin:0 auto auto;width:1027px;">
+  <div id="topnav" style="font-size:12px;width:1027px;margin:0 auto auto">
+    <ul>
+      <li style="width:60px;text-align:center"><a href="index.php">Home</a></li>
+       <li style="width:80px;text-align:center"><a href="aboutus.php">About Us</a></li>
+      
+
+      <li style="width:90px;text-align:center"><a href="btech.php">Programs</a>
+      	  <ul>
+          <li style="border-top:1px solid Black;border-bottom:1px solid Black;">
+                  <a href="btech.php" style="width:80px">B.Tech</a></li>
+          <li style="border-bottom:1px solid Black;"><a href="mtech.php" style="width:80px">M.Tech</a></li>
+		  <li style="border-bottom:1px solid Black;"><a href="management.php" style="width:80px">MBA</a></li>
+          <li style="border-bottom:1px solid Black;"><a href="diploma.php" style="width:80px">Diploma</a></li>
+		      </ul> </li>
+        
+
+      <li style="width:113px;text-align:center"><a href="">Departments</a>
+	  
+	   <ul >
+	      <li style="border-top:1px solid black;border-bottom:1px solid black;"><a href="cse.php" style="width:330px">Computer Science & Engineering (CSE)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="ece.php" style="width:330px">Electronics & Commuication Engineering (ECE)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="it.php" style="width:330px">Information Technology (IT)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="mech.php" style="width:330px">Mechanical Engineering (MECH)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="eee.php" style="width:330px">Electrical & Electronics Engineering (EEE)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="civil.php" style="width:330px">CIVIL ENGINEERING (CIVIL)</a></li>
+		 <li style="border-bottom:1px solid black;"><a href="eie.php" style="width:330px">Electronics & Instrumentation Engineering (EIE)</a></li>
+	           
+	      <li style="border-bottom:1px solid black;"><a href="mba.php" style="width:330px">Master of Business Administration (MBA)</a></li>
+	      <li style="border-bottom:1px solid black;"><a href="bsh.php" style="width:330px">Basic Sciences & Humanities (BS&H)</a></li>
+	      
+	   </ul>
+	  
+	  </li>
+      	  
+	  
+	  <li style="width:113px;text-align:center"><a href="autonomous.php">Autonomous</a></li>
+
+     <li style="width:156px;text-align:center;font-size:12px;"><a href="researchcenter.php">Research Center</a></li>
+
+      <li style="width:156px;text-align:center;font-size:12px;"><a href="#">Central Facilities</a>
+        <ul>
+          <li style="border-top:1px solid black;border-bottom:1px solid black;"><a href="library.php">Library</a></li>
+		  <li style="border-bottom:1px solid black;"><a href="transport.php">Transport</a></li>
+                  <li style="border-bottom:1px solid black;"><a href="hostels.php">Hostels</a></li>
+		  <li style="border-bottom:1px solid black;"><a href="eclinic.php">E-Clinic</a></li>
+		  <li style="border-bottom:1px solid black;"><a href="postoffice.php">Post Office</a></li>
+		    <li style="border-bottom:1px solid black;"><a href="atm.php">ATM</a></li>
+		  <li style="border-bottom:1px solid black;"><a href="canteen.php">Canteen</a></li>
+		  
+        </ul>
+      </li>     
+  
+      <li style="width:113px;text-align:center"><a href="placements.php">Placements</a></li>
+      
+    <li style="width:118px;text-align:center"><a href="contactus.php">Contact Us</a></li>
+<!--
+ <li><a href="gallery/gallery.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gallery</a>-->
+    </ul>
+   
+     <div  class="clear"></div>
+	<div  class="clear"></div>  
+   </div>
+	 
+ </div>
+<!-- ####################################################################################################### -->
+  <!-- ####################################################################################################### -->
+<!-- ####################################################################################################### -->
+<div class="wrapper row4" style="margin-top:0px;/*background-color:LightGrey;*/">
+
+
+<div id="container1" style="height:307px;width:1026px;background-color:#F8F9F3;">
+
+<div id="left_column1" style="margin-top:0px;background-color:#F8F9F3;">
+
+               <div class="imgholder" style="margin-top:0px;margin-left:0px;">
+	         <div id="sliderFrame" style="margin-top:0px;margin-left:0px;">
+                      <div id="slider" style="margin-top:0px;border-bottom:0px;border-right:0px;width:1014px;">
+                        <img src="images/slider/nm7.jpg" alt=""/>
+                        <img src="images/slider/nm8.jpg" alt=""/>
+                        <img src="images/slider/cs2016.jpg" alt=""/>
+                       <img src="images/slider/cs2015.jpg" alt=""/>
+                         
+                       </div>
+                 </div>
+	  </div>
+</div>
+
+  </div>
+  
+</div>
+
+
+     
+<!-- Scrolling circulars######################################################################################## -->
+
+<div id="scrollcirc" style="background-color:#F8F9F3/*#F0F8FF*/;margin-top:5px;width:1024px;height:20px;margin:0 auto;border:0px solid #03274B;font-weight:bold;font-size:13px">
+    
+
+<marquee scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();" style="width:1024px;border:0px solid grey">
+	<!-- write Scrolling circularsbelow -->
+
+<span style="color:Green">
+We are informing all new joining B.Tech students that our Fee is hiked to <span style="color:Red">Rs.72000</span> from this academic year.
+<font color="blue">******</font>
+
+We are happy to inform you all that AITAM is recognized as "Nodal Centre" for Virtual Labs under NME-ICT, MHRD Gov't of INDIA. 
+
+</span>
+</marquee>	
+</div>
+
+
+<!-- Scrolling circulars Close#################################################################################### -->
+
+
+  <div id="container" class="clear" style="/*box-shadow: 3px 5px 10px 5px Grey;*/margin-top:0px;width:1024px;background-color:#F8F9F3;color:black;padding:7px 0;font-size:13px;">
+    <!-- ####################################################################################################### -->
+  
+      <div id="left_column">
+      <div class="holder" style="height:590px;background-color:#F8F9F3;border:1px dotted DimGray;border-bottom:1px solid DimGray;">
+        <img src="images/quicklinks.jpg" width=90 height=15 style="margin-top:10px;">
+         <hr style="border:1px solid Black">
+        <ul class="nostart">
+         <li ><a href="admissions.php" style="font-weight:normal">Admissions</a></li>
+          <li ><a href="governingbody.php" style="font-weight:normal">Governing Body</a></li>
+              
+		<li ><a href="vision.php" style="font-weight:normal">Vision &amp; Mission</a></li>
+          <li ><a href="bos.php" style="font-weight:normal">BoS Members</a></li>
+ <li ><a href="circulars/List of Members of Academic Council.jpg" style="font-weight:normal" target="_blank">Members of Council</a></li>
+
+
+         <li ><a href="teqip.php" style="font-weight:normal">TEQIP</a></li>
+         <li ><a href="http://alumni.adityatekkali.edu.in/" target="_blank" style="font-weight:normal">Alumni</a></li>
+          <li><a href="cgc.php" style="font-weight:normal">CGC</a></li>
+          <li><a href="edc.php" style="font-weight:normal">EDC</a></li>
+          <li><a href="iqac.php" style="font-weight:normal">IQAC</a></li>
+          <li><a href="nss.php" style="font-weight:normal">NSS</a></li>
+          <li><a href="iipc.php" style="font-weight:normal">IIPC</a></li>
+          <li><a href="industryrelations.php" style="font-weight:normal">Industry Relations</a></li>
+          <li><a href="acacal.php" style="font-weight:normal">Academic Calendar</a></li>
+          <li><a href="downloads/mandatory2013.pdf" target="_blank" style="font-weight:normal">Mandatory Disclosure</a></li>
+          <li><a href="downloads/hrpolicies.pdf" style="font-weight:normal">HR Policies</a></li>
+          <li><a href="bs2011.php" style="font-weight:normal">Balance Sheets</a></li>
+          <li><a href="externalfunding.php" style="font-weight:normal">External Funding</a></li>
+          <li><a href="hostels.php" style="font-weight:normal">Hostels</a></li>
+          <li><a href="transport.php" style="font-weight:normal">Transport</a></li>
+          <li><a href="downloads/LIST OF COMMITTEES  Latest FOR 2015-16.doc" style="font-weight:normal">Committees</a></li>
+          <li><a href="memberships.php" style="font-weight:normal">Memberships</a></li>
+          <li><a href="downloads/newscholarships.doc" target="_blank" style="font-weight:normal">Scholarships</a></li>
+          <li><a href="aitamjobs.php" style="font-weight:normal">jobs@AITAM</a></li>
+          <li><a href="games.php" style="font-weight:normal">Games & Sports</a></li>
+          <li><a href="gallery.php" style="font-weight:normal">Gallery</a></li>
+          <li><a href="http://www.adityatekkali.directverify.in" style="font-weight:normal" target="_blank">Online Verification System</a></li>
+         <!-- <li><a href="https://www.onlinesbi.com/prelogin/icollecthome.htm?corpID=508858" style="font-weight:normal" target="_blank">Online Payment Gateway</a></li>-->
+        </ul>
+      
+     </div>
+<br/>
+	<a href=""><img src="images/cconnect.png" alt="" width="150" height="59" /></a>
+
+	  
+    </div>
+    <!-- ############ -->
+    <div id="content">
+      
+	 <div class="holder" style="height:590px;border-right:0px dotted Grey;">
+	<div style="height:320px;border:0px solid Grey;background-color:#F8F9F3;">
+       <table width="100%" style="border:0;margin-bottom:0px;padding:0;width:100%">
+        <thead>
+		    <tr style="text-align:left;background-color:#2980b9;color:white;width:100%">
+			   <th style="text-align:left;width:100%;font-weight:Normal">
+			     Circulars & Notifications
+			   </th>
+			</tr>
+		</thead>
+		<tbody>
+          <tr class="#F8F9F3">
+            <td id="narea" colspan="3" style="height:250;border:0;background-color:#F8F9F3;">
+
+ <html>
+<body>
+
+     <ul style="line-height:2.0;">
+
+	 	 <li><font color="Green">20-05-2016:</font>
+<a href="/circulars/interview.jpg" target="_blank" style="font-weight:normal;">FACULTY - Walk in Interview</a><sup><img src="images/new.gif"></sup> 
+</li> 
+
+
+	 <li><font color="Green">17-05-2016:</font>
+<a href="/circulars/withheld.pdf" target="_blank" style="font-weight:normal;">Results Withheld Circular</a>
+</li> 
+
+
+	 	 <li><font color="Green">17-05-2016:</font>
+<a href="/circulars/transport_fee.pdf" target="_blank" style="font-weight:normal;">Transport Fee Increased</a>
+</li> 
+
+
+	 
+	  <li><font color="Green">17-05-2016:</font>
+<a href="/circulars/withheld.pdf" target="_blank" style="font-weight:normal;">Results Withheld Circular</a>
+</li> 
+
+
+	 
+	 
+	 <li><font color="Green">17-05-2016:</font>
+<a href="/circulars/Hostel_fee.pdf" target="_blank" style="font-weight:normal;">Hostel Fee Increased</a> 
+</li> 
+
+<li><font color="Green">17-05-2016:</font>
+<a href="/circulars/reg_process.pdf" target="_blank" style="font-weight:normal;">Students Registration Process</a> 
+</li> 
+
+<li><font color="Green">14-05-2016:</font>
+<a href="/circulars/SIEMENS PLM SOFTWARE AUTHORISED TRAINING CENTRE.pdf" target="_blank" style="font-weight:normal;">SIEMENS PLM Software Training Centre</a>
+</li> 
+
+
+ <li><font color="Green">12-05-2016:</font>
+<a href="/circulars/transport_incharge.jpg" target="_blank" style="font-weight:normal;">Transport Incharge Changed</a>   
+</li> 
+
+
+
+
+	 <li><font color="Green">11-05-2016:</font>
+<a href="/circulars/awareness.jpg" target="_blank" style="font-weight:normal;">Awareness Program on "Engineering Education" on 15<sup>th</sup> May, 2016</a> 
+</li> 
+
+
+
+	 
+ 
+
+
+ 
+	 
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+	 
+	 
+
+
+
+	 
+</ul>        	  
+
+<p align="right"><a href="morenotifications.php">View More</a></p>
+		
+</body>
+</html></td>
+         </tr>
+          </tbody>
+      </table>
+       </div>
+
+<!----start-->
+       <div style="margin-top:7px;height:266px;border:0px solid Grey;background-color:#F8F9F3;border-bottom:1px solid Grey;border-right:0px dotted Grey;">
+<table style="margin-bottom:0px;margin-top:0px;border:0px solid Grey">
+          <thead>
+		    <tr style="text-align:left;background-color:#2980b9;color:white;width:100%">
+			   <th style="text-align:left;width:100%;font-weight:Normal">
+			     AITAM Achievements
+			   </th>
+			</tr>
+		</thead>
+          <tr class="light">
+            <td style="border:0;">
+			     
+			
+		  <script type="text/javascript">
+	$(document).ready(
+			function(){
+				$('#facultyachieve').innerfade({
+					animationtype: 'slide',
+					speed: 500,
+					timeout: 9000,
+					type: 'sequence',
+					containerheight: '1em'
+				});
+				
+				
+		});
+	</script>
+	
+	
+<ul id="facultyachieve" class="jstfy" STYLE="line-height:2em;padding:0;margin-top:0px;margin-left:0px;list-style-type:none;float:left;width:100%;color:black;font-style:normal;font-weight:normal;">	
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/saumendra.jpg" width="100px" height="110px" alt="Saumendra Das"/></center>
+</td>
+
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr  Saumendra Das, Asst.Prof, Dept of MBA on received his Doctoral degree from Berhampur University..
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+
+
+
+
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/ud.jpg" width="100px" height="110px" alt="ramanaiah"/></center>
+</td>
+
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr  U.D.Prasan, Assoc.Prof, Dept of CSE on received his Doctoral degree in Computer Science &amp; Engineering from SCSVMV University..
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/ramanaiah.jpg" width="100px" height="110px" alt="ramanaiah"/></center>
+</td>
+
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr  MALLA RAMANAIAH, Asst.Prof, Dept of BS&H on received his Doctoral degree in chemistry from Andhra University..
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/ratnamani.jpg" width="100px" height="110px" alt="Ravi"/></center>
+</td>
+
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr  M.V. Ratna Mani, Asst.Prof, Dept of BS&H for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/chravi.jpg" width="100px" height="110px" alt="Ravi"/></center>
+</td>
+
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr Ch.Ravi Kumar, Assoc.Prof, Dept of EEE for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/balaram.jpg" width="100px" height="110px" alt="Balaram"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr B Balaram, Assoc Professor, Dept of MBA for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td style="border:0;font-weight:normal">
+     Congratulations to AITAM ISTE STUDENT CHAPTER for receiving <font color="blue">"ISTE BEST STUDENT CHAPTER AWARD"</font> for Andhrapradesh Section.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="images/azad.jpg" width="100px" height="110px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr D Azad for Nominated as a "Honorary Secretary" to The Institute of Engineers India, Srikakulam Local Centre by Presedent,IE-India.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/drchramesh.jpg" width="100px" height="110px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr Ch.Ramesh, Professor, CSE Department for awarded Ph.D From JNTU Hyderabad.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/ramarao.jpg" width="100px" height="110px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr B.Rama Rao, Assoc Professor, ECE Department for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/rammohan.jpg" width="100px" height="110px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr H.Ram Mohan, Sr. Asst Professor, BS&H Department for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <a href="achievements/media3_mou.jpg" target="_blank"><center><img src="achievements/media3_mou.jpg" width="250px" height="180px"/></center></a>
+</td>
+
+<td style="border:0;font-weight:normal">
+     AITAM MOU With Media 3.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="it/images/it-head.jpg" width="110px" height="100px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr G.Nageswara Rao, Professor, IT Department for awarded Ph.D From Andhra University.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="it/images/it-head.jpg" width="110px" height="100px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal">
+     Congratulations to Dr G.Nageswara Rao, Professor, IT Department for nominated as a Member of the Section Managing Committee of ISTE Andhrapradesh Section against the vacant post for the period of 3 Years from 2015 to 2017.
+</td></tr></table>
+  </p>
+</strong></li>
+
+
+
+
+
+
+<li><strong>
+  <p align="center" style="text-align:center;">
+  <table width="100%" style="border:0">
+  <tr>
+  <td align="center" style="border:0;">
+  <center><img src="achievements/shipyard.jpg" width="180px" height="130px"/></center>
+</td>
+
+<td style="border:0;font-weight:normal;">
+    AITAM made an MOU with HINDUSTAN SHIPYARD for the better concern to the students community.</td></tr></table>
+  </p>
+</strong></li>
+
+
+</ul>
+		  
+		  
+		  
+		  	 
+				 	
+	    </td>
+         </tr>
+		 
+          </tbody>
+      </table>
+
+       </div>
+<!--end--->
+
+</div>
+<br/>
+ 
+
+
+<!--mou code removed from here-->
+<a href="http://www.leadershipfoundation.info/" style="background-color:none"><img src="images/leadership.png" width="160px" height="59"></a>
+&nbsp;
+<a href="antiragging.php" style="background-color:none"><img src="images/ragging.jpg" width="160px" height="59"></a>
+&nbsp;<a href="grievances.php" style="background-color:none">  <img src="images/grievance.jpg" width="160px" height="60"></a>
+
+   
+    </div>
+    
+    <div id="right_column">
+
+      <div class="holder" class="justify" style="height:590px;border-top:0px dotted Grey;">
+	<div style="height:320px;border:0px solid Grey;background-color:#F8F9F3;">
+
+<table style="margin-bottom:0px;margin-top:0px;border:0px solid Grey;" class="jstfy">
+               <thead>
+		    <tr style="text-align:left;background-color:#2980b9;color:white;width:100%">
+			   <th style="text-align:left;width:100%;font-weight:Normal">
+			     News & Events
+			   </th>
+			</tr>
+		</thead>
+<tr>
+  <td style="border:0px dotted Grey;">   
+    <ul style="list-style-image:url(hand.JPG);">
+
+
+<li>
+Dept of ECE,AITAM will organize a SERB,DST Sponsored 2-day National Conference on <font  color="Blue">"Antenna Innovation
+and Modern Technologies" </FONT> on 29-30 April,2016
+
+<br/><br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="circulars/SERB_2016_April__ASR__New.pdf" target="_blank">Brochure</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="circulars/Authors_Guidelines.docx" target="_blank">Author's Guidelines</a>
+
+<br/><br/>
+<br/>
+</li>
+
+
+
+<li>
+
+AITAM inaugurated <span style="color:Blue">IEEE Student Branch</span> on 19<sup>th</sup> March, 2016.
+<br/><br/><br/>
+
+</li>
+
+
+
+
+<li>
+AITAM recently organized National level Techno-Management Fest <font  color="Blue">"ASPIRE2K16"
+</FONT> on 26-27 Feb,2016
+
+<br/><br/>
+
+
+</li>
+
+
+
+
+
+<!--<li>
+<font color="Blue">SPOT Admissions</font><br/>
+<img src="images/scholarships.jpg" width="210" height="150">
+</li>-->
+
+
+
+
+
+
+</ul>			
+</td></tr></table>
+</div>
+<div style="margin-top:7px;height:267px;border:0px solid Grey;background-color:#F8F9F3;border-bottom:1px solid Grey;">
+<!----Student Achievements-->
+  <table style="margin-bottom:0px;margin-top:0px;border:0px dotted Grey;height:260px;">
+               <thead>
+		    <tr style="text-align:left;background-color:#2980b9;color:white;width:100%;height:20px">
+			   <th style="text-align:left;width:100%;font-weight:Normal">
+			     Student Achievements & Activities
+			   </th>
+			</tr>
+		</thead>
+     <tr style="height:230px;border:0px solid red;">
+  <td style="border:0px dotted Grey;">   
+<marquee id="special" direction="up" scrollamount="1"  onmouseover=this.stop(); onmouseout=this.start(); loop=true style="height:200px;"> 
+
+
+<p class="jstfy">
+
+Congratulations to Anil Kumar Sah,Civil Student for own 3<sup>rd</sup> prize in the Event COLLOQUIA CIVIL in IIT Bhubaneswar.
+</p> 
+ <hr style="border:1px dotted Green">
+
+
+
+Congratulations to AITAM Students for winning the Cricket Championship.
+<br/><br/>
+<img src="_20151226_214911.JPG" width=300 height=200>
+</p> 
+ <hr style="border:1px dotted Green">
+
+Congratulations to EIE Students N.Sony &amp; N.Laxmi Sravanthi for received Gold Medals from JNTUK Kakinada.
+<br/>
+</p> 
+ <hr style="border:1px dotted Green">
+
+
+
+
+MBA I SEMESTER STUDENTS ORGANISED MANAGEMENT GAMES AND ROLE PLAY ON 16-10-2015.
+<br/>
+</p> 
+ <hr style="border:1px dotted Green">
+
+
+Congratulations to the students for developed an online shopping website Flashmart. 
+<br/><a href="achievements/flashmart.jpg" target="_blank"><img src="achievements/flashmart.jpg" width="300" height="250"></a>
+</p> 
+ <hr style="border:1px dotted Green">
+
+
+
+Congratulations to the students Borige Dhilleswara Rao, Baratam Srinivas, D Tejesh, M Manikanta for winning in Online Quiz Competitons that are conducted under Campus Connect Activity. 
+</p> 
+ <hr style="border:1px dotted Green">
+
+
+
+ </marquee> 
+
+</td></tr></table>	
+
+</div>
+</div>
+<br/>
+       <a href="http://vlab.amrita.edu/" target="_blank"><img src="mou/VALUE VIRTUAL LABS.jpg" alt="" width="150" height="55" /></a>
+&nbsp;&nbsp;
+<a href="https://www.myamcat.com/" target="_blank"><img src="images/amcat.png" alt="" width="150" height="55" /></a>
+
+</div>
+
+ </div>
+
+ 
+
+
+	
+	
+
+    <!-- ####################################################################################################### -->
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ####################################################################################################### -->
+
+<!--mou start---> 	  
+<div style="width:1027px;margin:0 auto auto;border:0px solid grey">
+ <table style=="width:100;margin-left:0px;border:0px solid grey;">
+    <tr>
+           <td style="font-size:14px;background-color:#03274B;color:white;font-weight:bold;width:15px;border:1px solid grey">M<BR/>O<BR/>U'<BR/>s</td>
+                 <td style="background-color:#F8F9F3;border:1px solid grey">
+ <a href="images/mou/infosys.zip"><img src="images/mou/Infosys.png" width="85" Height="45" style="margin-top:5px;"></a>
+		&nbsp;&nbsp;
+
+ <a href="images/mou/wipro.pdf"><img src="images/mou/Wipro.jpg" width="85" Height="45" style="margin-top:5px;"></a>
+        &nbsp;&nbsp;
+
+<a href="mou/iiith.rar"><img src="mou/iiith.jpg" width="95" Height="45" style="margin-top:5px;"></a>
+		   	&nbsp;&nbsp;
+
+
+<a href="mou/trimex.rar"><img src="mou/trimex.png" width="45" Height="45" style="margin-top:5px;"></a>
+		   	&nbsp;&nbsp;
+		   	
+
+<a href="mou/sirmvie.rar"><img src="mou/sirmv.jpg" width="45" Height="45" style="margin-top:5px;"></a>
+		   	&nbsp;&nbsp;
+
+
+
+<a href="mou/sravan.rar"><img src="mou/sravan.jpg" width="95" Height="45" style="margin-top:5px;"></a>
+ &nbsp;&nbsp;
+
+<a href="images/mou/edc.pdf"><img src="images/mou/ced.gif" width="90" Height="50" style="margin-top:5px;"></a>
+		   	&nbsp;&nbsp;
+
+<a href="images/mou/shriram.pdf"><img src="images/mou/shriram_logo.gif" width="90" Height="50" style="margin-top:5px;"></a>
+		   	
+&nbsp;&nbsp;
+
+<a href="mou/voltechmou.zip"><img src="images/voltech.jpg" width="95" Height="45" style="margin-top:5px;"></a>
+&nbsp;&nbsp;
+<a href="mou/Media3.zip"><img src="mou/media3.png" width="95" Height="45" style="margin-top:5px;"></a>
+
+
+
+&nbsp;&nbsp;
+
+<a href="mou/MoU Abacus Infra.doc"><img src="mou/abacus.jpg" width="95" Height="45" style="margin-top:5px;"></a>
+
+
+
+
+</td>
+               </tr>
+             </table>
+        </div>
+<!--mou end---> 
+
+
+<div class="wrapper" style="">
+   <table style="width:1027px;padding:0;border:0px solid Navy;box-shadow: 3px 5px 10px 5px Grey;border-top:0px;background-color:#2980b9;color:White" id="copyright" class="clear">
+   <tr>   
+   <td width="550px" style="border:0;text-align:left">
+   Copyright &copy; 2015 - All Rights Reserved - adityatekkali.edu.in
+   </td>
+	
+	<td width="477px" style="border:0;text-align:right">
+    <p class="fl_right">Designed by -  <a href="weboffice.php" style="background-color:#2980b9;color:White">AITAM WEB TEAM</a></p>
+  </td>
+  </tr>
+  </table>
+  
+</div>
+
+</div>
+
+
+<!-above is full content div end-->
+
+
+
+<!--
+<div style="visibility: visible; right: 10px; top: 205px;font-size:13px" id="topbar">
+<div>
+
+<span><a onclick="closebar(); return false" href="#" style="color:Maroon;font-weight:bold;font-size:16px;background-color:Yellow;">
+close</a>
+</span>
+ 
+ <div class="helpdesk" style="background-image:url('../back.jpg');border:2px solid green;">
+<div style="text-align:center;color:#03274B;font-size:16px;">
+<img src="admissions1.JPG" width="250px">
+</div>
+<BR/>
+<center><a href="http://adityatekkali.edu.in/Aitam_App_Form/registration.php" target="_blank"><font color="Red">ONLINE ADMISSION FORM</font></a></center>
+<br>
+<div style="margin-left:5px;color:#03274B">
+<font color="Blue">For Admissions, please Contact</font>
+<ul style="line-height:1.5em">
+   <li>Sri T.Naga Seshu<br/>
+                  <img src="images/icons/Dialer-icon.png" width="15px" height="15px"> +91 - 92466 57908 <br/> </li>
+   <li>Prof. V.V.Nageswara Rao<br/>
+                       <img src="images/icons/Dialer-icon.png" width="15px" height="15px"> +91 -  94401 95534 </li>
+</ul>
+
+
+<span style="font-size:13px;color:Blue;">NEPAL Local Office Address:</span>
+<br/><br/>
+<span style="font-weight:normal;">
+Indian educational services Nepal,<br/>
+Jaycees Bhawan, Thapathali,<br/>
+Kathmandu, Nepal.<br/>
+<img src="images/icons/Dialer-icon.png" width="15px" height="15px"> +977 - 9802069696 / 01-2299282<br/>
+</span>
+
+<br/>
+
+
+<span style="font-size:13px;color:Blue;">BHUTAN Local Office Address:</span>
+<br/><br/>
+<span style="font-weight:normal;">
+CareerWin Education Consultancy & Placement Firm,<br/>
+Phendey lam,Lhaki building,II Floor,<br/>
+Hongkong market,Thimphu,Bhutan<br/>
+<img src="images/icons/Dialer-icon.png" width="15px" height="15px"> +975 - 17372607 / 77438667<br/>
+</span>
+
+
+
+
+</div>
+
+</div>
+</div>
+-->
+
+
+</div>
+
+
+
+<script type="text/javascript">$('.slidedeck').slidedeck();</script>
+</body>
+</html>
